@@ -1,0 +1,4 @@
+Bước 1: Chạy các file SQL
+Bước 2: Bật chương trình và kết nối cơ sở dữ liệu để lấy đường dẫn
+Bước 3: Vào project DAL_Quan_Ly -> Vào file Connect_data, Form_tong_thong_ke, Form_Theo_san_pham_thong_ke và FormInPhieuNhap để thay đổi đường dẫn
+Bước 4: Chạy chương trình

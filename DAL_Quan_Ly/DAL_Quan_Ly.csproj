@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7D44B558-F28E-466D-ACD9-F0B961127BCB}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DAL_Quan_Ly</RootNamespace>
+    <AssemblyName>DAL_Quan_Ly</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Connect_data.cs" />
+    <Compile Include="DAL_Chi_tiet_hoa_don.cs" />
+    <Compile Include="DAL_Chi_tiet_phieu_nhap.cs" />
+    <Compile Include="DAL_Hoa_Don.cs" />
+    <Compile Include="DAL_Hoi_Vien.cs" />
+    <Compile Include="DAL_khach_hang.cs" />
+    <Compile Include="DAL_Loai_San_Pham.cs" />
+    <Compile Include="DAL_Nhan_vien.cs" />
+    <Compile Include="DAL_Nha_cung_cap.cs" />
+    <Compile Include="DAL_Phan_quyen.cs" />
+    <Compile Include="DAL_phieu_nhap_hang.cs" />
+    <Compile Include="DAL_Quan_Ly_Tai_Khoan.cs" />
+    <Compile Include="DAL_San_Pham.cs" />
+    <Compile Include="DAL_The_hoi_vien.cs" />
+    <Compile Include="DAL_Voucher.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DTO_Quan_ly\DTO_Quan_ly.csproj">
+      <Project>{bd44d7aa-bac4-4938-8f57-c7624c411d1b}</Project>
+      <Name>DTO_Quan_ly</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

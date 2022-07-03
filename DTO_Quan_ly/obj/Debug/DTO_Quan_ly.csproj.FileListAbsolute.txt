@@ -1,0 +1,6 @@
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\DTO_Quan_ly\bin\Debug\DTO_Quan_ly.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\DTO_Quan_ly\bin\Debug\DTO_Quan_ly.pdb
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\DTO_Quan_ly\obj\Debug\DTO_Quan_ly.csproj.CoreCompileInputs.cache
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\DTO_Quan_ly\obj\Debug\DTO_Quan_ly.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\DTO_Quan_ly\obj\Debug\DTO_Quan_ly.pdb
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\DTO_Quan_ly\obj\Debug\DTO_Quan_ly.csproj.AssemblyReference.cache

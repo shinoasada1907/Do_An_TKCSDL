@@ -1,0 +1,8 @@
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\DAL_Quan_Ly\bin\Debug\DAL_Quan_Ly.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\DAL_Quan_Ly\bin\Debug\DAL_Quan_Ly.pdb
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\DAL_Quan_Ly\obj\Debug\DAL_Quan_Ly.csproj.AssemblyReference.cache
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\DAL_Quan_Ly\obj\Debug\DAL_Quan_Ly.csproj.CoreCompileInputs.cache
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\DAL_Quan_Ly\obj\Debug\DAL_Quan_Ly.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\DAL_Quan_Ly\obj\Debug\DAL_Quan_Ly.pdb
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\DAL_Quan_Ly\bin\Debug\DTO_Quan_ly.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\DAL_Quan_Ly\bin\Debug\DTO_Quan_ly.pdb

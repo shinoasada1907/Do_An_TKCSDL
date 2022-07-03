@@ -1,0 +1,194 @@
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\Quản lý cửa hàng mỹ phẩm.exe.config
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\Quản lý cửa hàng mỹ phẩm.exe
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\Quản lý cửa hàng mỹ phẩm.pdb
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\Guna.UI2.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.Form1.resources
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.Properties.Resources.resources
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản lý cửa hàng mỹ phẩm.csproj.GenerateResource.cache
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản lý cửa hàng mỹ phẩm.csproj.CoreCompileInputs.cache
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản lý cửa hàng mỹ phẩm.exe
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản lý cửa hàng mỹ phẩm.pdb
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.Form_Trang_Chu.resources
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.UserControl_Quan_Ly_San_Pham.resources
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.UserControl_Quan_ly_Nhan_Vien.resources
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.UserControl_Khach_Hang.resources
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.UserControl_Quan_Ly_Nguoi_Dung.resources
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.UserControl_hoi_vien.resources
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản lý cửa hàng mỹ phẩm.csproj.AssemblyReference.cache
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.UserControl_quan_ly_hoa_don.resources
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.UserControl_quan_ly_nha_cung_cap.resources
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.UserControl_Quan_Ly_Phieu_Nhap.resources
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.UserControl_Quan_Ly_Tai_Khoan.resources
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.UserControl_Bao_cao_thong_ke.resources
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.Form_loai_san_pham.resources
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.Form_voucher.resources
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.Form_the_hoi_vien.resources
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.Form_chi_tiet_hoa_don.resources
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\EnvDTE.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\stdole.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\Microsoft.MSXML.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.UserControl_Tong_the.resources
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\obj\Debug\RdlCompile.cache
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\obj\Debug\RdlCompile.compiled
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.Form_chi_tiet_phieu_nhap.resources
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.Form_thong_tin_phieu_nhap.resources
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.UserControl_theo_san_pham.resources
+C:\Users\bonze\Desktop\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.Form_thong_tin_voucher.resources
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\Quản lý cửa hàng mỹ phẩm.exe.config
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\Quản lý cửa hàng mỹ phẩm.exe
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\Quản lý cửa hàng mỹ phẩm.pdb
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\BUS_Quan_Ly.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\DTO_Quan_ly.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\Guna.UI2.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\EnvDTE.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\stdole.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\Microsoft.MSXML.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\BUS_Quan_Ly.pdb
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\DTO_Quan_ly.pdb
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản lý cửa hàng mỹ phẩm.csproj.AssemblyReference.cache
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.Form1.resources
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.Form_chi_tiet_hoa_don.resources
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.Form_chi_tiet_phieu_nhap.resources
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.Form_loai_san_pham.resources
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.Form_the_hoi_vien.resources
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.Form_thong_tin_phieu_nhap.resources
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.Form_thong_tin_voucher.resources
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.Form_Trang_Chu.resources
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.Form_voucher.resources
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.Properties.Resources.resources
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.UserControl_Bao_cao_thong_ke.resources
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.UserControl_hoi_vien.resources
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.UserControl_Khach_Hang.resources
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.UserControl_quan_ly_hoa_don.resources
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.UserControl_Quan_Ly_Nguoi_Dung.resources
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.UserControl_Quan_ly_Nhan_Vien.resources
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.UserControl_quan_ly_nha_cung_cap.resources
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.UserControl_Quan_Ly_Phieu_Nhap.resources
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.UserControl_Quan_Ly_San_Pham.resources
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.UserControl_Quan_Ly_Tai_Khoan.resources
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản lý cửa hàng mỹ phẩm.csproj.GenerateResource.cache
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\obj\Debug\RdlCompile.cache
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\obj\Debug\RdlCompile.compiled
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản lý cửa hàng mỹ phẩm.csproj.CoreCompileInputs.cache
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản lý cửa hàng mỹ phẩm.exe
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản lý cửa hàng mỹ phẩm.pdb
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\DAL_Quan_Ly.dll
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\bin\Debug\DAL_Quan_Ly.pdb
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.Form_Thong_tin_CTHD.resources
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.Form_them_moi_KH.resources
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.UserControl_hoadon_hoivien.resources
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.UserControl_hoadon_khachhang.resources
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.Form_LapHD_hoivien.resources
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.Form_Theo_san_pham_thong_ke.resources
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.Form_tong_thong_ke.resources
+C:\Users\bonze\Desktop\Đò án cuối kì Thiết kế cơ sở dữ liệu\Quản lý cửa hàng mỹ phẩm\obj\Debug\Quản_lý_cửa_hàng_mỹ_phẩm.FormInPhieuNhap.resources

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="MYPHAMDataSet" targetNamespace="http://tempuri.org/MYPHAMDataSet.xsd" xmlns:mstns="http://tempuri.org/MYPHAMDataSet.xsd" xmlns="http://tempuri.org/MYPHAMDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="MYPHAMConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="MYPHAMConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Quản_lý_cửa_hàng_mỹ_phẩm.Properties.Settings.GlobalReference.Default.MYPHAMConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="voucherTableAdapter" GeneratorDataComponentClassName="voucherTableAdapter" Name="voucher" UserDataComponentName="voucherTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="MYPHAMConnectionString (Settings)" DbObjectName="MYPHAM.dbo.voucher" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Ten_voucher FROM dbo.voucher</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Ten_voucher" DataSetColumn="Ten_voucher" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="MYPHAMDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="MYPHAMDataSet" msprop:Generator_UserDSName="MYPHAMDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="voucher" msprop:Generator_TableClassName="voucherDataTable" msprop:Generator_TableVarName="tablevoucher" msprop:Generator_TablePropName="voucher" msprop:Generator_RowDeletingName="voucherRowDeleting" msprop:Generator_RowChangingName="voucherRowChanging" msprop:Generator_RowEvHandlerName="voucherRowChangeEventHandler" msprop:Generator_RowDeletedName="voucherRowDeleted" msprop:Generator_UserTableName="voucher" msprop:Generator_RowChangedName="voucherRowChanged" msprop:Generator_RowEvArgName="voucherRowChangeEvent" msprop:Generator_RowClassName="voucherRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Ten_voucher" msprop:Generator_ColumnVarNameInTable="columnTen_voucher" msprop:Generator_ColumnPropNameInRow="Ten_voucher" msprop:Generator_ColumnPropNameInTable="Ten_voucherColumn" msprop:Generator_UserColumnName="Ten_voucher">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
